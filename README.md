@@ -12,9 +12,9 @@ This is my *Personal Portfolio Website, created using **HTML* and *CSS*, to show
 - Skills showcase
 - Project highlights
 - Contact information
-- Smooth scrolling (if added)
+- Smooth scrolling 
 - Navigation links to website sections
-- Static, non-responsive layout (responsive version coming soon)
+- Responsive layout 
 
 ## 🚀 Technologies Used
 
